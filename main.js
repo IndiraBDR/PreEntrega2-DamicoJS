@@ -107,7 +107,7 @@ if (edad >= 18) {
             }
           } while (opcion !== 3);
         } else {
-          alert("Perfecto que tengas Buen Dias");
+          alert("Perfecto que tengas Buen Dia");
         }
  
        
@@ -118,7 +118,7 @@ if (edad >= 18) {
  
 } else {
      
-     alert("Lo sentimos no cumlples con la edad necesaria");
+     alert("Lo sentimos no cumples con la edad necesaria");
  
  }
 
